@@ -13,7 +13,7 @@ The procedure file should be put in the *Igor Procedure* folder located in the u
 8. Enhancing image quality of topographic images
 9. Taking line profiles of images
 10. A GUI integrating frequently used functions
-## Function Introduction
+## Function Tutorial
 1. Importing multiple Igor binary files
 2. Calculating lattice constant and angle in Fourier transformed Images (GUI)
 3. Colorizing images with customized color scales (GUI)
